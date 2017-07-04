@@ -1,0 +1,10 @@
+name: GG
+version: 1.0
+author: _Ug
+description: Generates glyphs
+main: gg.core.GlyphGenerator
+commands:
+  glyph:
+    description: Display un glypho
+  createglyph:
+    description: Create un glypho
